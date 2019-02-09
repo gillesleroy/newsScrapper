@@ -1,2 +1,2 @@
 # newsScrapper
-An app for srapping news and add notrs about articles
+An app for scrapping news and add notes about articles
